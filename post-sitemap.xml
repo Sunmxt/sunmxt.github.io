@@ -9,7 +9,7 @@
 
     <url>
         <loc>http://blog.sunmxt.cn/2020/07/24/time-clocks-events/</loc>
-        <lastmod>2020-11-12T10:22:00.708Z</lastmod>
+        <lastmod>2020-12-06T19:33:38.221Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,7 +17,15 @@
 
     <url>
         <loc>http://blog.sunmxt.cn/2020/07/02/begin-maybe/</loc>
-        <lastmod>2020-11-12T10:22:00.704Z</lastmod>
+        <lastmod>2020-12-06T19:33:38.217Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.sunmxt.cn/2020/12/07/tencent-storage-team-interview/</loc>
+        <lastmod>2020-12-06T19:33:38.217Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
